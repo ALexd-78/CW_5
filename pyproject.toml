@@ -8,6 +8,8 @@ packages = [{include = "cw_5"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+psycopg2 = "^2.9.6"
+requests = "^2.28.2"
 
 
 [build-system]

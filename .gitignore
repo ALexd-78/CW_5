@@ -129,5 +129,4 @@ dmypy.json
 .pyre/
 
 # User-specific stuff:
-.idea/!/venv/
-!/database.ini
+.idea/database.ini
